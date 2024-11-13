@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo Andres Vega</h1>
 <h3 align="center">Software Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Vue, Python, Flutter**
+- 🌱 I’m currently learning **Python, Flutter**
 
 - 💬 Ask me about **PHP, Js, Jquery, AngularJS**
 
